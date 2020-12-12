@@ -11,8 +11,8 @@
 - I/O to file
     - Read line by line and output to given file
 - Different versions
-   - User input / interactive
-   - Command Line Argument input to immediate translate (look at argv)
+    - User input / interactive
+    - Command Line Argument input to immediate translate (look at argv)
 - Other ideas
 
 ## Morse Code Table
